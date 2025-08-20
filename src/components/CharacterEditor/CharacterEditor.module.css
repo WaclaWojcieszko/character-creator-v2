@@ -29,19 +29,14 @@
 
 .characterWrapper {
   position: fixed;
-  z-index: 2;
-  top: 128px;
-  left: 65%;
+  top: 15%;
+  bottom: 5%;
+  left: 60%;
   min-height: 500px;
-  width: 360px;
 }
 
 .controlColumn {
   width: 50%;
-}
-
-.barWrapper {
-  isolation: auto;
 }
 
 .bar {
