@@ -1,4 +1,6 @@
 .controlPane {
+  overflow-x: auto;
+  scrollbar-width: thin;
   padding: 24px;
   /* Optical centering */
   padding-top: 18px;

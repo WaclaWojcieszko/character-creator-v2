@@ -88,6 +88,9 @@ function App() {
           clothesColor={clothesColor}
         />
       </div>
+      <div className={styles.barWrapper}>
+        <div className={styles.bar} />
+      </div>
     </main>
   );
 }
